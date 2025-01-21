@@ -1,6 +1,13 @@
 .App {
   text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
 }
+
+h1 {
+  color: #4CAF50;
+}
+
 
 .App-logo {
   height: 40vmin;
