@@ -24,3 +24,9 @@ button:disabled {
   cursor: not-allowed;
 }
 
+h1{
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
